@@ -1,0 +1,48 @@
+body {
+    font-family: sans-serif;
+    margin: 20px;
+    background: white;
+    color: black;
+}
+
+header {
+    margin-bottom: 20px;
+}
+
+nav a {
+    margin-right: 15px;
+    color: blue;
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+    margin-top: 10px;
+}
+
+th, td {
+    border: 1px solid #ccc;
+    padding: 5px;
+    text-align: left;
+}
+
+input, select, button {
+    margin: 5px 0;
+    padding: 5px;
+}
+
+button {
+    cursor: pointer;
+}
+
+h1, h2, h3 {
+    margin: 10px 0;
+}
+
+.card {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin-bottom: 10px;
+}
